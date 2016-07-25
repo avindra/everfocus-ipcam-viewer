@@ -1,0 +1,17 @@
+{
+  "name": "everfocus-ipcam-viewer",
+  "version": "1.0.0",
+  "description": "Improved viewer for the Everfocus IP Cameras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "cameras",
+    "security"
+  ],
+  "author": "Avindra Goolcharan",
+  "license": "MIT",
+  "private": true
+}
