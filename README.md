@@ -33,4 +33,4 @@ I plan to include more features than Everfocus natively ships with, including:
 
 ## Development
 
-Currently raw JavaScript (using some ES6 features), will eventually be moved to React and built with Webpack.
+Currently one index.html file with some modern JS.
